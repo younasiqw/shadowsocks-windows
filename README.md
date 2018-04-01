@@ -1,4 +1,4 @@
-Shadowsocks for Windows
+Shadowsocks Windows 版本
 =======================
 
 [![Build Status]][Appveyor]
@@ -9,7 +9,7 @@ Shadowsocks for Windows
 
 1. System proxy configuration
 2. PAC mode and global mode
-3. [GFWList] and user rules
+3. [GFWList] and user rules 去你的傻逼防火墙!!!
 4. Supports HTTP proxy
 5. Supports server auto switching
 6. Supports UDP relay (see Usage)
@@ -21,7 +21,7 @@ Download the [latest release].
 
 #### Requirements
 
-Microsoft [.NET Framework 4.6.2] or higher, Microsoft [Visual C++ 2015 Redistributable] (x86) .
+无法运行请按照 Microsoft [.NET Framework 4.6.2] or higher, Microsoft [Visual C++ 2015 Redistributable] (x86) .
 
 #### Basic
 
